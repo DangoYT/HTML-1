@@ -1,0 +1,23 @@
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.img_conteiner {
+    background-image: url(AKYIY3GDONB6DBCDRDCHIN7J7M.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tittle {
+    text-align: center;
+}
+
+.color {
+   background-color: #D2691E;
+   color: white;
+   border-radius: 10px;
+   margin: 20px;
+   padding: 20px;
+}
